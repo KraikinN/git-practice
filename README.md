@@ -2,4 +2,4 @@
 
  *14.05.2025* 
 
- !! https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fimages-wixmp-ed30a86b8c4ca887773594c2.wixmp.com%2Ff%2F0a536e6e-6336-44a0-abfc-c1e8d39cf514%2Fd71in3t-043bb15e-c0c4-4d6d-adf2-d747e1872e0e.jpg%2Fv1%2Ffill%2Fw_1024%2Ch_640%2Cq_75%2Cstrp%2Fsad____by_s566_d71in3t-fullview.jpg%3Ftoken%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvMGE1MzZlNmUtNjMzNi00NGEwLWFiZmMtYzFlOGQzOWNmNTE0XC9kNzFpbjN0LTA0M2JiMTVlLWMwYzQtNGQ2ZC1hZGYyLWQ3NDdlMTg3MmUwZS5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.1i84uD2BD4NkfdxzcZ67bKPdwIY6Oov3HgcmTp8vgE0&lr=21&p=3&pos=16&rpt=simage&text=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0
+ !! 
